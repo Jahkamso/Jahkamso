@@ -7,11 +7,11 @@ I'm Jahkamso from Nigeria, and I love making cool designs and websites with code
 ## Skills
 
 <div style="display: flex;">
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="20" />
-<img src="https://www.svgrepo.com/show/452185/css-3.svg" width="20" />
-<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="20" />
-<img src="https://www.svgrepo.com/show/452092/react.svg" width="20" />
-<img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" width="20" />
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="150" />
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" width="150" />
+<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="150" />
+<img src="https://www.svgrepo.com/show/452092/react.svg" width="150" />
+<img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" width="150" />
 </div>
 
 - 🔭 I’m currently working on this page. 
