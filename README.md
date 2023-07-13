@@ -14,6 +14,7 @@ I'm Jahkamso from Nigeria, and I love making cool designs and websites with code
 <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" width="150" />
 </div>
 
+
 - 🔭 I’m currently working on this page. 
 - ⚡ Fun fact: I'm a tech nerd 
 
