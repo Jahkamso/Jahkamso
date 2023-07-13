@@ -12,6 +12,7 @@ I'm Jahkamso from Nigeria, and I love making cool designs and websites with code
 <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="150" />
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="150" />
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="150" />
+<img src="https://www.svgrepo.com/show/373595/firebase.svg" width="150" />
 <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" width="150" />
 </div>
 
