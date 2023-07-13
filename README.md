@@ -7,13 +7,13 @@ I'm Jahkamso from Nigeria, and I love making cool designs and websites with code
 ## Skills👇🏽
 
 <div style="display: flex;">
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="150" />
-<img src="https://www.svgrepo.com/show/452185/css-3.svg" width="150" />
-<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="150" />
-<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="150" />
-<img src="https://www.svgrepo.com/show/452092/react.svg" width="150" />
-<img src="https://www.svgrepo.com/show/373595/firebase.svg" width="150" />
-<img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" width="150" />
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="120" />
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" width="120" />
+<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="120" />
+<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="120" />
+<img src="https://www.svgrepo.com/show/452092/react.svg" width="120" />
+<img src="https://www.svgrepo.com/show/373595/firebase.svg" width="120" />
+<img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" width="120" />
 </div>
 
 
